@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html{
+  scroll-behavior: smooth;
+}
+body{
+  font-family: 'Livvic', sans-serif;
+                                                
+}
+
+ul, ol{
+  list-style-type: none;
+  padding-left: 0;
+}
+a{
+  text-decoration: none;
+}
+
+.container{
+  max-width: 1200px;
+  margin: 0 auto;
+  enable-background: accumulate;
+}
+
+h1{
+  margin-top: 50px;
+  margin-left: 50px;
+}
+
+input{
+  margin-left: 50px;
+  width: 200px;
+  border-radius: 5px 5px 5px 5px;
+  background-color: aqua;
+  text-align: center;
+  }
+
+.wert{
+  width: 50px;
+  border-radius: 5px 5px 5px 5px;
+  background-color: blue;
+  color: white;
+  margin-left: 5px;
+}
